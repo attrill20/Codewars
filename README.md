@@ -1,6 +1,7 @@
 ## Codewars
 
 Welcome to my Codewars repository! This repository contains my solutions to various CodeWars coding challenges. 
+
 I will be adding solutions to CodeWars challenges as I complete more - I aim to solve at least one a day to pratice my coding skills and add notes explaining what I have learnt from that particular challenge.
 
 ## Difficulty Levels

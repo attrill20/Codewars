@@ -2,7 +2,9 @@
 
 Welcome to my Codewars repository! This repository contains my solutions to various CodeWars coding challenges. 
 
-I will be adding solutions to CodeWars challenges as I complete more - I aim to solve at least one a day to pratice my coding skills and add notes explaining what I have learnt from that particular challenge.
+I will be adding solutions to CodeWars challenges as I complete more - I aim to solve at least one a day as part of my daily practice to improve my coding skills. I will often add notes explaining what I have learnt from that particular challenge and compare to alternate solutions to learn new tips and tricks.
+
+My Codewars profile can be found here: https://www.codewars.com/users/attrill20
 
 ## Difficulty Levels
 

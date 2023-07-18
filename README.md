@@ -10,25 +10,25 @@ My Codewars profile can be found here: https://www.codewars.com/users/attrill20
 
 ## Difficulty Levels
 
-For those who are unfamiliar with CodeWars, the difficulty level of each challenge is indicated by its "kyu" 🥋 rating. The Kyu ratings range from 8kyu to 1kyu, with 8kyu being the easiest and 1kyu being the most difficult. The kyu ratings are based on the following criteria:
+For those who are unfamiliar with CodeWars, the difficulty level of each challenge is indicated by its "kyu" 🥋 rating. The Kyu ratings range from 8 kyu to 1 kyu, with 8 kyu being the easiest and 1 kyu being the most difficult. The kyu ratings are based on the following criteria:
 
 In Codewars, the Kyu ratings are inverted, meaning that a lower number indicates a higher difficulty level. Here's a brief explanation of the kyu ratings:
 
-👶 - 8kyu: Beginner level challenges, suitable for those who are new to programming.
+👶 - 8 kyu: Beginner level challenges, suitable for those who are new to programming.
 
-👦 - 7kyu: Slightly more challenging problems, requiring some programming knowledge and skills.
+👦 - 7 kyu: Slightly more challenging problems, requiring some programming knowledge and skills.
 
-🏃 - 6kyu: Intermediate level challenges, involving more complex logic and problem-solving techniques.
+🏃 - 6 kyu: Intermediate level challenges, involving more complex logic and problem-solving techniques.
 
-💪 - 5kyu: Advanced level challenges, suitable for experienced programmers.
+💪 - 5 kyu: Advanced level challenges, suitable for experienced programmers.
 
-😓 - 4kyu: Hard challenges that often require advanced algorithms and data structures.
+😓 - 4 kyu: Hard challenges that often require advanced algorithms and data structures.
 
-😱 - 3kyu: Very hard challenges, requiring a deep understanding of programming concepts.
+😱 - 3 kyu: Very hard challenges, requiring a deep understanding of programming concepts.
 
-😡 - 2kyu: Extremely difficult challenges, suitable for advanced programmers and algorithm experts.
+😡 - 2 kyu: Extremely difficult challenges, suitable for advanced programmers and algorithm experts.
 
-👿 - 1kyu: The most difficult challenges on Codewars, often involving highly complex algorithms and problem-solving skills.
+👿 - 1 kyu: The most difficult challenges on Codewars, often involving highly complex algorithms and problem-solving skills.
 
 
 ## Contributing

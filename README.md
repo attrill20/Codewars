@@ -6,6 +6,8 @@ I will be adding solutions to CodeWars challenges as I complete more - I aim to 
 
 My Codewars profile can be found here: https://www.codewars.com/users/attrill20
 
+![Codewars](https://github.r2v.ch/codewars?user=attrill20&stroke=blue)
+
 ## Difficulty Levels
 
 For those who are unfamiliar with CodeWars, the difficulty level of each challenge is indicated by its "Kyu" 🥋 rating. The Kyu ratings range from 8 Kyu to 1 Kyu, with 8 Kyu being the easiest and 1 Kyu being the most difficult. The Kyu ratings are based on the following criteria:

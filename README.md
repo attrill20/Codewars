@@ -14,21 +14,21 @@ For those who are unfamiliar with CodeWars, the difficulty level of each challen
 
 In Codewars, the Kyu ratings are inverted, meaning that a lower number indicates a higher difficulty level. Here's a brief explanation of the kyu ratings:
 
-👶- 8kyu: Beginner level challenges, suitable for those who are new to programming.
+👶 - 8kyu: Beginner level challenges, suitable for those who are new to programming.
 
-👦- 7kyu: Slightly more challenging problems, requiring some programming knowledge and skills.
+👦 - 7kyu: Slightly more challenging problems, requiring some programming knowledge and skills.
 
-🏃- 6kyu: Intermediate level challenges, involving more complex logic and problem-solving techniques.
+🏃 - 6kyu: Intermediate level challenges, involving more complex logic and problem-solving techniques.
 
-💪- 5kyu: Advanced level challenges, suitable for experienced programmers.
+💪 - 5kyu: Advanced level challenges, suitable for experienced programmers.
 
-😓- 4kyu: Hard challenges that often require advanced algorithms and data structures.
+😓 - 4kyu: Hard challenges that often require advanced algorithms and data structures.
 
-😱- 3kyu: Very hard challenges, requiring a deep understanding of programming concepts.
+😱 - 3kyu: Very hard challenges, requiring a deep understanding of programming concepts.
 
-😡- 2kyu: Extremely difficult challenges, suitable for advanced programmers and algorithm experts.
+😡 - 2kyu: Extremely difficult challenges, suitable for advanced programmers and algorithm experts.
 
-👿- 1kyu: The most difficult challenges on Codewars, often involving highly complex algorithms and problem-solving skills.
+👿 - 1kyu: The most difficult challenges on Codewars, often involving highly complex algorithms and problem-solving skills.
 
 
 ## Contributing

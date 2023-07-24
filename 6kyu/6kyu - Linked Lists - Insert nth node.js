@@ -70,3 +70,4 @@ function Node(data) {
   }
 
   // a better solution from the answers
+
